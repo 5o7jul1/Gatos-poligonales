@@ -2,7 +2,7 @@
  Etapa1
 
  ## Dayana Bolivar
-![Plato favorito](C:\Users\pc1\Documents\Visual Studio 2022\ProyeD\Comida Favorita\Chop suey con arroz.jpg)
+![Plato favorito](Chop suey con arroz)
 
 ### Rol en la industria
 1. Artista del juego 
