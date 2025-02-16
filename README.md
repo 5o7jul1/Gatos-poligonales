@@ -12,4 +12,4 @@
 Tolima, Ibague 
 
 ### Perfil 
-Me gusta crear historias y diseñar elementos y personajes en **3D** y **2D**
+Me gusta la narrativa visual y el diseño de personajes y elementos  en **3D** y **2D**
