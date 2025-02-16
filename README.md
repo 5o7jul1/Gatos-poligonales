@@ -12,4 +12,4 @@
 Tolima, Ibague 
 
 ### Perfil 
-Diseñadora apasionada por la creatividad en el **3D** y las **ilustraciones** 
+Me gusta crear historias y diseñar elementos y personajes en **3D** y **2D**
